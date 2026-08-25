@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_TrueComponents_TC-13220724_2016_2020_202_2032,1,3V,
+C1,CP_Radial_D5.0mm_P2.00mm,1,1µ,
+"D1, D2",LED_D5.0mm,2,LED,
+"D3, D4, D5, D6",LED_D3.0mm,4,LED,
+MK1,ElectretCondenserMicrophoneCapsule_EKULIT_d9.7mm_h6.5mm,1,Microphone,
+"Q1, Q2",TO-92_Inline,2,BC547,
+R1,Potentiometer_Weltron_CA6-V5_Vertical,1,50K,
+R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,1M,
+R3,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,10K,
+"R4, R5, R6, R7, R8, R9",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,6,R,
+SW1,Slide Switch True Components,1,SW_Wuerth_450301014042,
