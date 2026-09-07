@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_TrueComponents_TC-13220724_2016_2020_202_2032,1,Batterie,
+"D1, D2, D3, D4, D5, D6",LED_D5.0mm,6,LED,
+"R1, R2, R3, R4, R5, R6",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,6,1K,
+SW1,Slide Switch True Components,1,Schalter,
