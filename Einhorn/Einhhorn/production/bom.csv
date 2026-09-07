@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,Battery_MPD_BHX2-2032-PC_2x2032,1,Battery_Cell,
+"C1, C2",CP_Axial_L11.0mm_D5.0mm_P18.00mm_Horizontal,2,1µ,
+"D1, D2, D3, D4, D5, D6, D7, D8",LED_D5.0mm,8,LED,
+"R1, R2, R3, R4, R5, R6, R7, R8",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,8,1K,
+R10,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,10K,
+R11,Potentiometer_Weltron_CA6-V5_Vertical,1,50K,
+R9,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,"2,2K",
+SW1,Slide Switch True Components,1,Slide Switch,
+U1,DIP-8_W7.62mm_Socket,1,TLC555xP,
+U2,CERDIP-16_W7.62mm_SideBrazed_Socket,1,4017,
